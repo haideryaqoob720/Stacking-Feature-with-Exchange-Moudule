@@ -1,0 +1,37 @@
+.NavbarRow{
+    width: 95%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.FairTraderLogo{
+    width: 70px;
+}
+.fairTraderExchangeDiv{
+    margin: 0 auto;
+}
+.fairTraderExchangeTxt{
+    border: none;
+    padding: 10px 30px;
+    border-radius: 8px;
+    background-color: #EDEEF2;
+    color: black;
+    /* background-color: #2C2F36;
+    color: white; */
+    font-weight: bold;
+    box-shadow: 0px 0px 6px 2px white;
+}
+.navbarLastDiv{
+    float: right;
+}
+.navbarBtns{
+    border: none;
+    padding: 8px 15px;
+    border-radius: 8px;
+    background-color: #EDEEF2;
+    color: black;
+    /* background-color: #2C2F36;
+    color: white; */
+    font-weight: bold;
+    box-shadow: 0px 0px 6px 2px white;
+    margin-left: 10px;
+}
